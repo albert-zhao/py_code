@@ -1,0 +1,1 @@
+./food_query.py "kcal <= 100 AND fiber >= 10 ORDER BY sugar"
