@@ -1,4 +1,5 @@
 #! /usr/bin/python3
+
 from html.parser import HTMLParser
 
 
@@ -18,7 +19,7 @@ parser.feed('<html><head><title>Test</title></head>'
             '<body><h1>Parse me!</h1></body></html>')
 
 # log:
-# zxl@pc-zxl:~/Work/py_code/tidy$ ./html_parse.py
+# zxl@pc-zxl:~/Work/py_code/html_parse$ ./html_parse_simple.py 
 # Encountered a start tag: html
 # Encountered a start tag: head
 # Encountered a start tag: title
@@ -31,3 +32,4 @@ parser.feed('<html><head><title>Test</title></head>'
 # Encountered an end tag : h1
 # Encountered an end tag : body
 # Encountered an end tag : html
+# zxl@pc-zxl:~/Work/py_code/html_parse$ 

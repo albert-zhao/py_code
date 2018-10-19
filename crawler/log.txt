@@ -1,0 +1,983 @@
+Downloading: http://example.webscraping.com/sitemap.xml
+sitemap: <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://example.webscraping.com/places/default/view/Afghanistan-1</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Aland-Islands-2</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Albania-3</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Algeria-4</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/American-Samoa-5</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Andorra-6</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Angola-7</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Anguilla-8</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Antarctica-9</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Antigua-and-Barbuda-10</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Argentina-11</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Armenia-12</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Aruba-13</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Australia-14</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Austria-15</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Azerbaijan-16</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Bahamas-17</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Bahrain-18</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Bangladesh-19</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Barbados-20</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Belarus-21</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Belgium-22</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Belize-23</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Benin-24</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Bermuda-25</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Bhutan-26</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Bolivia-27</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Bonaire-Saint-Eustatius-and-Saba-28</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Bosnia-and-Herzegovina-29</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Botswana-30</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Bouvet-Island-31</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Brazil-32</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/British-Indian-Ocean-Territory-33</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/British-Virgin-Islands-34</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Brunei-35</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Bulgaria-36</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Burkina-Faso-37</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Burundi-38</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Cambodia-39</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Cameroon-40</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Canada-41</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Cape-Verde-42</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Cayman-Islands-43</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Central-African-Republic-44</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Chad-45</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Chile-46</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/China-47</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Christmas-Island-48</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Cocos-Islands-49</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Colombia-50</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Comoros-51</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Cook-Islands-52</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Costa-Rica-53</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Croatia-54</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Cuba-55</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Curacao-56</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Cyprus-57</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Czech-Republic-58</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Democratic-Republic-of-the-Congo-59</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Denmark-60</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Djibouti-61</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Dominica-62</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Dominican-Republic-63</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/East-Timor-64</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Ecuador-65</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Egypt-66</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/El-Salvador-67</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Equatorial-Guinea-68</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Eritrea-69</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Estonia-70</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Ethiopia-71</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Falkland-Islands-72</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Faroe-Islands-73</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Fiji-74</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Finland-75</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/France-76</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/French-Guiana-77</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/French-Polynesia-78</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/French-Southern-Territories-79</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Gabon-80</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Gambia-81</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Georgia-82</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Germany-83</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Ghana-84</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Gibraltar-85</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Greece-86</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Greenland-87</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Grenada-88</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Guadeloupe-89</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Guam-90</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Guatemala-91</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Guernsey-92</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Guinea-93</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Guinea-Bissau-94</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Guyana-95</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Haiti-96</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Heard-Island-and-McDonald-Islands-97</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Honduras-98</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Hong-Kong-99</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Hungary-100</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Iceland-101</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/India-102</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Indonesia-103</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Iran-104</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Iraq-105</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Ireland-106</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Isle-of-Man-107</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Israel-108</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Italy-109</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Ivory-Coast-110</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Jamaica-111</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Japan-112</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Jersey-113</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Jordan-114</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Kazakhstan-115</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Kenya-116</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Kiribati-117</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Kosovo-118</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Kuwait-119</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Kyrgyzstan-120</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Laos-121</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Latvia-122</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Lebanon-123</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Lesotho-124</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Liberia-125</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Libya-126</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Liechtenstein-127</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Lithuania-128</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Luxembourg-129</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Macao-130</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Macedonia-131</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Madagascar-132</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Malawi-133</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Malaysia-134</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Maldives-135</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Mali-136</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Malta-137</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Marshall-Islands-138</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Martinique-139</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Mauritania-140</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Mauritius-141</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Mayotte-142</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Mexico-143</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Micronesia-144</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Moldova-145</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Monaco-146</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Mongolia-147</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Montenegro-148</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Montserrat-149</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Morocco-150</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Mozambique-151</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Myanmar-152</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Namibia-153</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Nauru-154</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Nepal-155</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Netherlands-156</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Netherlands-Antilles-157</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/New-Caledonia-158</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/New-Zealand-159</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Nicaragua-160</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Niger-161</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Nigeria-162</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Niue-163</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Norfolk-Island-164</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/North-Korea-165</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Northern-Mariana-Islands-166</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Norway-167</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Oman-168</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Pakistan-169</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Palau-170</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Palestinian-Territory-171</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Panama-172</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Papua-New-Guinea-173</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Paraguay-174</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Peru-175</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Philippines-176</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Pitcairn-177</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Poland-178</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Portugal-179</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Puerto-Rico-180</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Qatar-181</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Republic-of-the-Congo-182</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Reunion-183</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Romania-184</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Russia-185</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Rwanda-186</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Saint-Barthelemy-187</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Saint-Helena-188</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Saint-Kitts-and-Nevis-189</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Saint-Lucia-190</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Saint-Martin-191</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Saint-Pierre-and-Miquelon-192</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Saint-Vincent-and-the-Grenadines-193</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Samoa-194</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/San-Marino-195</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Sao-Tome-and-Principe-196</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Saudi-Arabia-197</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Senegal-198</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Serbia-199</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Serbia-and-Montenegro-200</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Seychelles-201</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Sierra-Leone-202</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Singapore-203</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Sint-Maarten-204</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Slovakia-205</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Slovenia-206</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Solomon-Islands-207</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Somalia-208</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/South-Africa-209</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/South-Georgia-and-the-South-Sandwich-Islands-210</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/South-Korea-211</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/South-Sudan-212</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Spain-213</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Sri-Lanka-214</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Sudan-215</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Suriname-216</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Svalbard-and-Jan-Mayen-217</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Swaziland-218</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Sweden-219</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Switzerland-220</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Syria-221</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Taiwan-222</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Tajikistan-223</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Tanzania-224</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Thailand-225</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Togo-226</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Tokelau-227</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Tonga-228</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Trinidad-and-Tobago-229</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Tunisia-230</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Turkey-231</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Turkmenistan-232</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Turks-and-Caicos-Islands-233</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Tuvalu-234</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/US-Virgin-Islands-235</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Uganda-236</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Ukraine-237</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/United-Arab-Emirates-238</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/United-Kingdom-239</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/United-States-240</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/United-States-Minor-Outlying-Islands-241</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Uruguay-242</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Uzbekistan-243</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Vanuatu-244</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Vatican-245</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Venezuela-246</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Vietnam-247</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Wallis-and-Futuna-248</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Western-Sahara-249</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Yemen-250</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Zambia-251</loc></url>
+<url><loc>http://example.webscraping.com/places/default/view/Zimbabwe-252</loc></url>
+</urlset> 
+
+site: http://example.webscraping.com/places/default/view/Afghanistan-1
+Downloading: http://example.webscraping.com/places/default/view/Afghanistan-1
+site: http://example.webscraping.com/places/default/view/Aland-Islands-2
+Downloading: http://example.webscraping.com/places/default/view/Aland-Islands-2
+site: http://example.webscraping.com/places/default/view/Albania-3
+Downloading: http://example.webscraping.com/places/default/view/Albania-3
+site: http://example.webscraping.com/places/default/view/Algeria-4
+Downloading: http://example.webscraping.com/places/default/view/Algeria-4
+site: http://example.webscraping.com/places/default/view/American-Samoa-5
+Downloading: http://example.webscraping.com/places/default/view/American-Samoa-5
+site: http://example.webscraping.com/places/default/view/Andorra-6
+Downloading: http://example.webscraping.com/places/default/view/Andorra-6
+site: http://example.webscraping.com/places/default/view/Angola-7
+Downloading: http://example.webscraping.com/places/default/view/Angola-7
+site: http://example.webscraping.com/places/default/view/Anguilla-8
+Downloading: http://example.webscraping.com/places/default/view/Anguilla-8
+site: http://example.webscraping.com/places/default/view/Antarctica-9
+Downloading: http://example.webscraping.com/places/default/view/Antarctica-9
+site: http://example.webscraping.com/places/default/view/Antigua-and-Barbuda-10
+Downloading: http://example.webscraping.com/places/default/view/Antigua-and-Barbuda-10
+site: http://example.webscraping.com/places/default/view/Argentina-11
+Downloading: http://example.webscraping.com/places/default/view/Argentina-11
+site: http://example.webscraping.com/places/default/view/Armenia-12
+Downloading: http://example.webscraping.com/places/default/view/Armenia-12
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Aruba-13
+Downloading: http://example.webscraping.com/places/default/view/Aruba-13
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Australia-14
+Downloading: http://example.webscraping.com/places/default/view/Australia-14
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Austria-15
+Downloading: http://example.webscraping.com/places/default/view/Austria-15
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Azerbaijan-16
+Downloading: http://example.webscraping.com/places/default/view/Azerbaijan-16
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Bahamas-17
+Downloading: http://example.webscraping.com/places/default/view/Bahamas-17
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Bahrain-18
+Downloading: http://example.webscraping.com/places/default/view/Bahrain-18
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Bangladesh-19
+Downloading: http://example.webscraping.com/places/default/view/Bangladesh-19
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Barbados-20
+Downloading: http://example.webscraping.com/places/default/view/Barbados-20
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Belarus-21
+Downloading: http://example.webscraping.com/places/default/view/Belarus-21
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Belgium-22
+Downloading: http://example.webscraping.com/places/default/view/Belgium-22
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Belize-23
+Downloading: http://example.webscraping.com/places/default/view/Belize-23
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Benin-24
+Downloading: http://example.webscraping.com/places/default/view/Benin-24
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Bermuda-25
+Downloading: http://example.webscraping.com/places/default/view/Bermuda-25
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Bhutan-26
+Downloading: http://example.webscraping.com/places/default/view/Bhutan-26
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Bolivia-27
+Downloading: http://example.webscraping.com/places/default/view/Bolivia-27
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Bonaire-Saint-Eustatius-and-Saba-28
+Downloading: http://example.webscraping.com/places/default/view/Bonaire-Saint-Eustatius-and-Saba-28
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Bosnia-and-Herzegovina-29
+Downloading: http://example.webscraping.com/places/default/view/Bosnia-and-Herzegovina-29
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Botswana-30
+Downloading: http://example.webscraping.com/places/default/view/Botswana-30
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Bouvet-Island-31
+Downloading: http://example.webscraping.com/places/default/view/Bouvet-Island-31
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Brazil-32
+Downloading: http://example.webscraping.com/places/default/view/Brazil-32
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/British-Indian-Ocean-Territory-33
+Downloading: http://example.webscraping.com/places/default/view/British-Indian-Ocean-Territory-33
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/British-Virgin-Islands-34
+Downloading: http://example.webscraping.com/places/default/view/British-Virgin-Islands-34
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Brunei-35
+Downloading: http://example.webscraping.com/places/default/view/Brunei-35
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Bulgaria-36
+Downloading: http://example.webscraping.com/places/default/view/Bulgaria-36
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Burkina-Faso-37
+Downloading: http://example.webscraping.com/places/default/view/Burkina-Faso-37
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Burundi-38
+Downloading: http://example.webscraping.com/places/default/view/Burundi-38
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Cambodia-39
+Downloading: http://example.webscraping.com/places/default/view/Cambodia-39
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Cameroon-40
+Downloading: http://example.webscraping.com/places/default/view/Cameroon-40
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Canada-41
+Downloading: http://example.webscraping.com/places/default/view/Canada-41
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Cape-Verde-42
+Downloading: http://example.webscraping.com/places/default/view/Cape-Verde-42
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Cayman-Islands-43
+Downloading: http://example.webscraping.com/places/default/view/Cayman-Islands-43
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Central-African-Republic-44
+Downloading: http://example.webscraping.com/places/default/view/Central-African-Republic-44
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Chad-45
+Downloading: http://example.webscraping.com/places/default/view/Chad-45
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Chile-46
+Downloading: http://example.webscraping.com/places/default/view/Chile-46
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/China-47
+Downloading: http://example.webscraping.com/places/default/view/China-47
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Christmas-Island-48
+Downloading: http://example.webscraping.com/places/default/view/Christmas-Island-48
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Cocos-Islands-49
+Downloading: http://example.webscraping.com/places/default/view/Cocos-Islands-49
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Colombia-50
+Downloading: http://example.webscraping.com/places/default/view/Colombia-50
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Comoros-51
+Downloading: http://example.webscraping.com/places/default/view/Comoros-51
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Cook-Islands-52
+Downloading: http://example.webscraping.com/places/default/view/Cook-Islands-52
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Costa-Rica-53
+Downloading: http://example.webscraping.com/places/default/view/Costa-Rica-53
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Croatia-54
+Downloading: http://example.webscraping.com/places/default/view/Croatia-54
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Cuba-55
+Downloading: http://example.webscraping.com/places/default/view/Cuba-55
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Curacao-56
+Downloading: http://example.webscraping.com/places/default/view/Curacao-56
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Cyprus-57
+Downloading: http://example.webscraping.com/places/default/view/Cyprus-57
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Czech-Republic-58
+Downloading: http://example.webscraping.com/places/default/view/Czech-Republic-58
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Democratic-Republic-of-the-Congo-59
+Downloading: http://example.webscraping.com/places/default/view/Democratic-Republic-of-the-Congo-59
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Denmark-60
+Downloading: http://example.webscraping.com/places/default/view/Denmark-60
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Djibouti-61
+Downloading: http://example.webscraping.com/places/default/view/Djibouti-61
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Dominica-62
+Downloading: http://example.webscraping.com/places/default/view/Dominica-62
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Dominican-Republic-63
+Downloading: http://example.webscraping.com/places/default/view/Dominican-Republic-63
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/East-Timor-64
+Downloading: http://example.webscraping.com/places/default/view/East-Timor-64
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Ecuador-65
+Downloading: http://example.webscraping.com/places/default/view/Ecuador-65
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Egypt-66
+Downloading: http://example.webscraping.com/places/default/view/Egypt-66
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/El-Salvador-67
+Downloading: http://example.webscraping.com/places/default/view/El-Salvador-67
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Equatorial-Guinea-68
+Downloading: http://example.webscraping.com/places/default/view/Equatorial-Guinea-68
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Eritrea-69
+Downloading: http://example.webscraping.com/places/default/view/Eritrea-69
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Estonia-70
+Downloading: http://example.webscraping.com/places/default/view/Estonia-70
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Ethiopia-71
+Downloading: http://example.webscraping.com/places/default/view/Ethiopia-71
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Falkland-Islands-72
+Downloading: http://example.webscraping.com/places/default/view/Falkland-Islands-72
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Faroe-Islands-73
+Downloading: http://example.webscraping.com/places/default/view/Faroe-Islands-73
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Fiji-74
+Downloading: http://example.webscraping.com/places/default/view/Fiji-74
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Finland-75
+Downloading: http://example.webscraping.com/places/default/view/Finland-75
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/France-76
+Downloading: http://example.webscraping.com/places/default/view/France-76
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/French-Guiana-77
+Downloading: http://example.webscraping.com/places/default/view/French-Guiana-77
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/French-Polynesia-78
+Downloading: http://example.webscraping.com/places/default/view/French-Polynesia-78
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/French-Southern-Territories-79
+Downloading: http://example.webscraping.com/places/default/view/French-Southern-Territories-79
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Gabon-80
+Downloading: http://example.webscraping.com/places/default/view/Gabon-80
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Gambia-81
+Downloading: http://example.webscraping.com/places/default/view/Gambia-81
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Georgia-82
+Downloading: http://example.webscraping.com/places/default/view/Georgia-82
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Germany-83
+Downloading: http://example.webscraping.com/places/default/view/Germany-83
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Ghana-84
+Downloading: http://example.webscraping.com/places/default/view/Ghana-84
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Gibraltar-85
+Downloading: http://example.webscraping.com/places/default/view/Gibraltar-85
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Greece-86
+Downloading: http://example.webscraping.com/places/default/view/Greece-86
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Greenland-87
+Downloading: http://example.webscraping.com/places/default/view/Greenland-87
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Grenada-88
+Downloading: http://example.webscraping.com/places/default/view/Grenada-88
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Guadeloupe-89
+Downloading: http://example.webscraping.com/places/default/view/Guadeloupe-89
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Guam-90
+Downloading: http://example.webscraping.com/places/default/view/Guam-90
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Guatemala-91
+Downloading: http://example.webscraping.com/places/default/view/Guatemala-91
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Guernsey-92
+Downloading: http://example.webscraping.com/places/default/view/Guernsey-92
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Guinea-93
+Downloading: http://example.webscraping.com/places/default/view/Guinea-93
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Guinea-Bissau-94
+Downloading: http://example.webscraping.com/places/default/view/Guinea-Bissau-94
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Guyana-95
+Downloading: http://example.webscraping.com/places/default/view/Guyana-95
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Haiti-96
+Downloading: http://example.webscraping.com/places/default/view/Haiti-96
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Heard-Island-and-McDonald-Islands-97
+Downloading: http://example.webscraping.com/places/default/view/Heard-Island-and-McDonald-Islands-97
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Honduras-98
+Downloading: http://example.webscraping.com/places/default/view/Honduras-98
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Hong-Kong-99
+Downloading: http://example.webscraping.com/places/default/view/Hong-Kong-99
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Hungary-100
+Downloading: http://example.webscraping.com/places/default/view/Hungary-100
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Iceland-101
+Downloading: http://example.webscraping.com/places/default/view/Iceland-101
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/India-102
+Downloading: http://example.webscraping.com/places/default/view/India-102
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Indonesia-103
+Downloading: http://example.webscraping.com/places/default/view/Indonesia-103
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Iran-104
+Downloading: http://example.webscraping.com/places/default/view/Iran-104
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Iraq-105
+Downloading: http://example.webscraping.com/places/default/view/Iraq-105
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Ireland-106
+Downloading: http://example.webscraping.com/places/default/view/Ireland-106
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Isle-of-Man-107
+Downloading: http://example.webscraping.com/places/default/view/Isle-of-Man-107
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Israel-108
+Downloading: http://example.webscraping.com/places/default/view/Israel-108
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Italy-109
+Downloading: http://example.webscraping.com/places/default/view/Italy-109
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Ivory-Coast-110
+Downloading: http://example.webscraping.com/places/default/view/Ivory-Coast-110
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Jamaica-111
+Downloading: http://example.webscraping.com/places/default/view/Jamaica-111
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Japan-112
+Downloading: http://example.webscraping.com/places/default/view/Japan-112
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Jersey-113
+Downloading: http://example.webscraping.com/places/default/view/Jersey-113
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Jordan-114
+Downloading: http://example.webscraping.com/places/default/view/Jordan-114
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Kazakhstan-115
+Downloading: http://example.webscraping.com/places/default/view/Kazakhstan-115
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Kenya-116
+Downloading: http://example.webscraping.com/places/default/view/Kenya-116
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Kiribati-117
+Downloading: http://example.webscraping.com/places/default/view/Kiribati-117
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Kosovo-118
+Downloading: http://example.webscraping.com/places/default/view/Kosovo-118
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Kuwait-119
+Downloading: http://example.webscraping.com/places/default/view/Kuwait-119
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Kyrgyzstan-120
+Downloading: http://example.webscraping.com/places/default/view/Kyrgyzstan-120
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Laos-121
+Downloading: http://example.webscraping.com/places/default/view/Laos-121
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Latvia-122
+Downloading: http://example.webscraping.com/places/default/view/Latvia-122
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Lebanon-123
+Downloading: http://example.webscraping.com/places/default/view/Lebanon-123
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Lesotho-124
+Downloading: http://example.webscraping.com/places/default/view/Lesotho-124
+site: http://example.webscraping.com/places/default/view/Liberia-125
+Downloading: http://example.webscraping.com/places/default/view/Liberia-125
+site: http://example.webscraping.com/places/default/view/Libya-126
+Downloading: http://example.webscraping.com/places/default/view/Libya-126
+site: http://example.webscraping.com/places/default/view/Liechtenstein-127
+Downloading: http://example.webscraping.com/places/default/view/Liechtenstein-127
+site: http://example.webscraping.com/places/default/view/Lithuania-128
+Downloading: http://example.webscraping.com/places/default/view/Lithuania-128
+site: http://example.webscraping.com/places/default/view/Luxembourg-129
+Downloading: http://example.webscraping.com/places/default/view/Luxembourg-129
+site: http://example.webscraping.com/places/default/view/Macao-130
+Downloading: http://example.webscraping.com/places/default/view/Macao-130
+site: http://example.webscraping.com/places/default/view/Macedonia-131
+Downloading: http://example.webscraping.com/places/default/view/Macedonia-131
+site: http://example.webscraping.com/places/default/view/Madagascar-132
+Downloading: http://example.webscraping.com/places/default/view/Madagascar-132
+site: http://example.webscraping.com/places/default/view/Malawi-133
+Downloading: http://example.webscraping.com/places/default/view/Malawi-133
+site: http://example.webscraping.com/places/default/view/Malaysia-134
+Downloading: http://example.webscraping.com/places/default/view/Malaysia-134
+site: http://example.webscraping.com/places/default/view/Maldives-135
+Downloading: http://example.webscraping.com/places/default/view/Maldives-135
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Mali-136
+Downloading: http://example.webscraping.com/places/default/view/Mali-136
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Malta-137
+Downloading: http://example.webscraping.com/places/default/view/Malta-137
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Marshall-Islands-138
+Downloading: http://example.webscraping.com/places/default/view/Marshall-Islands-138
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Martinique-139
+Downloading: http://example.webscraping.com/places/default/view/Martinique-139
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Mauritania-140
+Downloading: http://example.webscraping.com/places/default/view/Mauritania-140
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Mauritius-141
+Downloading: http://example.webscraping.com/places/default/view/Mauritius-141
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Mayotte-142
+Downloading: http://example.webscraping.com/places/default/view/Mayotte-142
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Mexico-143
+Downloading: http://example.webscraping.com/places/default/view/Mexico-143
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Micronesia-144
+Downloading: http://example.webscraping.com/places/default/view/Micronesia-144
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Moldova-145
+Downloading: http://example.webscraping.com/places/default/view/Moldova-145
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Monaco-146
+Downloading: http://example.webscraping.com/places/default/view/Monaco-146
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Mongolia-147
+Downloading: http://example.webscraping.com/places/default/view/Mongolia-147
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Montenegro-148
+Downloading: http://example.webscraping.com/places/default/view/Montenegro-148
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Montserrat-149
+Downloading: http://example.webscraping.com/places/default/view/Montserrat-149
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Morocco-150
+Downloading: http://example.webscraping.com/places/default/view/Morocco-150
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Mozambique-151
+Downloading: http://example.webscraping.com/places/default/view/Mozambique-151
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Myanmar-152
+Downloading: http://example.webscraping.com/places/default/view/Myanmar-152
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Namibia-153
+Downloading: http://example.webscraping.com/places/default/view/Namibia-153
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Nauru-154
+Downloading: http://example.webscraping.com/places/default/view/Nauru-154
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Nepal-155
+Downloading: http://example.webscraping.com/places/default/view/Nepal-155
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Netherlands-156
+Downloading: http://example.webscraping.com/places/default/view/Netherlands-156
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Netherlands-Antilles-157
+Downloading: http://example.webscraping.com/places/default/view/Netherlands-Antilles-157
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/New-Caledonia-158
+Downloading: http://example.webscraping.com/places/default/view/New-Caledonia-158
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/New-Zealand-159
+Downloading: http://example.webscraping.com/places/default/view/New-Zealand-159
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Nicaragua-160
+Downloading: http://example.webscraping.com/places/default/view/Nicaragua-160
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Niger-161
+Downloading: http://example.webscraping.com/places/default/view/Niger-161
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Nigeria-162
+Downloading: http://example.webscraping.com/places/default/view/Nigeria-162
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Niue-163
+Downloading: http://example.webscraping.com/places/default/view/Niue-163
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Norfolk-Island-164
+Downloading: http://example.webscraping.com/places/default/view/Norfolk-Island-164
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/North-Korea-165
+Downloading: http://example.webscraping.com/places/default/view/North-Korea-165
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Northern-Mariana-Islands-166
+Downloading: http://example.webscraping.com/places/default/view/Northern-Mariana-Islands-166
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Norway-167
+Downloading: http://example.webscraping.com/places/default/view/Norway-167
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Oman-168
+Downloading: http://example.webscraping.com/places/default/view/Oman-168
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Pakistan-169
+Downloading: http://example.webscraping.com/places/default/view/Pakistan-169
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Palau-170
+Downloading: http://example.webscraping.com/places/default/view/Palau-170
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Palestinian-Territory-171
+Downloading: http://example.webscraping.com/places/default/view/Palestinian-Territory-171
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Panama-172
+Downloading: http://example.webscraping.com/places/default/view/Panama-172
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Papua-New-Guinea-173
+Downloading: http://example.webscraping.com/places/default/view/Papua-New-Guinea-173
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Paraguay-174
+Downloading: http://example.webscraping.com/places/default/view/Paraguay-174
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Peru-175
+Downloading: http://example.webscraping.com/places/default/view/Peru-175
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Philippines-176
+Downloading: http://example.webscraping.com/places/default/view/Philippines-176
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Pitcairn-177
+Downloading: http://example.webscraping.com/places/default/view/Pitcairn-177
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Poland-178
+Downloading: http://example.webscraping.com/places/default/view/Poland-178
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Portugal-179
+Downloading: http://example.webscraping.com/places/default/view/Portugal-179
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Puerto-Rico-180
+Downloading: http://example.webscraping.com/places/default/view/Puerto-Rico-180
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Qatar-181
+Downloading: http://example.webscraping.com/places/default/view/Qatar-181
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Republic-of-the-Congo-182
+Downloading: http://example.webscraping.com/places/default/view/Republic-of-the-Congo-182
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Reunion-183
+Downloading: http://example.webscraping.com/places/default/view/Reunion-183
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Romania-184
+Downloading: http://example.webscraping.com/places/default/view/Romania-184
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Russia-185
+Downloading: http://example.webscraping.com/places/default/view/Russia-185
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Rwanda-186
+Downloading: http://example.webscraping.com/places/default/view/Rwanda-186
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Saint-Barthelemy-187
+Downloading: http://example.webscraping.com/places/default/view/Saint-Barthelemy-187
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Saint-Helena-188
+Downloading: http://example.webscraping.com/places/default/view/Saint-Helena-188
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Saint-Kitts-and-Nevis-189
+Downloading: http://example.webscraping.com/places/default/view/Saint-Kitts-and-Nevis-189
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Saint-Lucia-190
+Downloading: http://example.webscraping.com/places/default/view/Saint-Lucia-190
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Saint-Martin-191
+Downloading: http://example.webscraping.com/places/default/view/Saint-Martin-191
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Saint-Pierre-and-Miquelon-192
+Downloading: http://example.webscraping.com/places/default/view/Saint-Pierre-and-Miquelon-192
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Saint-Vincent-and-the-Grenadines-193
+Downloading: http://example.webscraping.com/places/default/view/Saint-Vincent-and-the-Grenadines-193
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Samoa-194
+Downloading: http://example.webscraping.com/places/default/view/Samoa-194
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/San-Marino-195
+Downloading: http://example.webscraping.com/places/default/view/San-Marino-195
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Sao-Tome-and-Principe-196
+Downloading: http://example.webscraping.com/places/default/view/Sao-Tome-and-Principe-196
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Saudi-Arabia-197
+Downloading: http://example.webscraping.com/places/default/view/Saudi-Arabia-197
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Senegal-198
+Downloading: http://example.webscraping.com/places/default/view/Senegal-198
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Serbia-199
+Downloading: http://example.webscraping.com/places/default/view/Serbia-199
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Serbia-and-Montenegro-200
+Downloading: http://example.webscraping.com/places/default/view/Serbia-and-Montenegro-200
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Seychelles-201
+Downloading: http://example.webscraping.com/places/default/view/Seychelles-201
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Sierra-Leone-202
+Downloading: http://example.webscraping.com/places/default/view/Sierra-Leone-202
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Singapore-203
+Downloading: http://example.webscraping.com/places/default/view/Singapore-203
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Sint-Maarten-204
+Downloading: http://example.webscraping.com/places/default/view/Sint-Maarten-204
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Slovakia-205
+Downloading: http://example.webscraping.com/places/default/view/Slovakia-205
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Slovenia-206
+Downloading: http://example.webscraping.com/places/default/view/Slovenia-206
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Solomon-Islands-207
+Downloading: http://example.webscraping.com/places/default/view/Solomon-Islands-207
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Somalia-208
+Downloading: http://example.webscraping.com/places/default/view/Somalia-208
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/South-Africa-209
+Downloading: http://example.webscraping.com/places/default/view/South-Africa-209
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/South-Georgia-and-the-South-Sandwich-Islands-210
+Downloading: http://example.webscraping.com/places/default/view/South-Georgia-and-the-South-Sandwich-Islands-210
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/South-Korea-211
+Downloading: http://example.webscraping.com/places/default/view/South-Korea-211
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/South-Sudan-212
+Downloading: http://example.webscraping.com/places/default/view/South-Sudan-212
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Spain-213
+Downloading: http://example.webscraping.com/places/default/view/Spain-213
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Sri-Lanka-214
+Downloading: http://example.webscraping.com/places/default/view/Sri-Lanka-214
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Sudan-215
+Downloading: http://example.webscraping.com/places/default/view/Sudan-215
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Suriname-216
+Downloading: http://example.webscraping.com/places/default/view/Suriname-216
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Svalbard-and-Jan-Mayen-217
+Downloading: http://example.webscraping.com/places/default/view/Svalbard-and-Jan-Mayen-217
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Swaziland-218
+Downloading: http://example.webscraping.com/places/default/view/Swaziland-218
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Sweden-219
+Downloading: http://example.webscraping.com/places/default/view/Sweden-219
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Switzerland-220
+Downloading: http://example.webscraping.com/places/default/view/Switzerland-220
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Syria-221
+Downloading: http://example.webscraping.com/places/default/view/Syria-221
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Taiwan-222
+Downloading: http://example.webscraping.com/places/default/view/Taiwan-222
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Tajikistan-223
+Downloading: http://example.webscraping.com/places/default/view/Tajikistan-223
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Tanzania-224
+Downloading: http://example.webscraping.com/places/default/view/Tanzania-224
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Thailand-225
+Downloading: http://example.webscraping.com/places/default/view/Thailand-225
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Togo-226
+Downloading: http://example.webscraping.com/places/default/view/Togo-226
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Tokelau-227
+Downloading: http://example.webscraping.com/places/default/view/Tokelau-227
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Tonga-228
+Downloading: http://example.webscraping.com/places/default/view/Tonga-228
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Trinidad-and-Tobago-229
+Downloading: http://example.webscraping.com/places/default/view/Trinidad-and-Tobago-229
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Tunisia-230
+Downloading: http://example.webscraping.com/places/default/view/Tunisia-230
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Turkey-231
+Downloading: http://example.webscraping.com/places/default/view/Turkey-231
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Turkmenistan-232
+Downloading: http://example.webscraping.com/places/default/view/Turkmenistan-232
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Turks-and-Caicos-Islands-233
+Downloading: http://example.webscraping.com/places/default/view/Turks-and-Caicos-Islands-233
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Tuvalu-234
+Downloading: http://example.webscraping.com/places/default/view/Tuvalu-234
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/US-Virgin-Islands-235
+Downloading: http://example.webscraping.com/places/default/view/US-Virgin-Islands-235
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Uganda-236
+Downloading: http://example.webscraping.com/places/default/view/Uganda-236
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Ukraine-237
+Downloading: http://example.webscraping.com/places/default/view/Ukraine-237
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/United-Arab-Emirates-238
+Downloading: http://example.webscraping.com/places/default/view/United-Arab-Emirates-238
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/United-Kingdom-239
+Downloading: http://example.webscraping.com/places/default/view/United-Kingdom-239
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/United-States-240
+Downloading: http://example.webscraping.com/places/default/view/United-States-240
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/United-States-Minor-Outlying-Islands-241
+Downloading: http://example.webscraping.com/places/default/view/United-States-Minor-Outlying-Islands-241
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Uruguay-242
+Downloading: http://example.webscraping.com/places/default/view/Uruguay-242
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Uzbekistan-243
+Downloading: http://example.webscraping.com/places/default/view/Uzbekistan-243
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Vanuatu-244
+Downloading: http://example.webscraping.com/places/default/view/Vanuatu-244
+Download error :  TOO MANY REQUESTS
+site: http://example.webscraping.com/places/default/view/Vatican-245
+Downloading: http://example.webscraping.com/places/default/view/Vatican-245
+site: http://example.webscraping.com/places/default/view/Venezuela-246
+Downloading: http://example.webscraping.com/places/default/view/Venezuela-246
+site: http://example.webscraping.com/places/default/view/Vietnam-247
+Downloading: http://example.webscraping.com/places/default/view/Vietnam-247
+site: http://example.webscraping.com/places/default/view/Wallis-and-Futuna-248
+Downloading: http://example.webscraping.com/places/default/view/Wallis-and-Futuna-248
+site: http://example.webscraping.com/places/default/view/Western-Sahara-249
+Downloading: http://example.webscraping.com/places/default/view/Western-Sahara-249
+site: http://example.webscraping.com/places/default/view/Yemen-250
+Downloading: http://example.webscraping.com/places/default/view/Yemen-250
+site: http://example.webscraping.com/places/default/view/Zambia-251
+Downloading: http://example.webscraping.com/places/default/view/Zambia-251
+site: http://example.webscraping.com/places/default/view/Zimbabwe-252
+Downloading: http://example.webscraping.com/places/default/view/Zimbabwe-252

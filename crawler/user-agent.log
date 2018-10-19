@@ -1,0 +1,47 @@
+DEFAULT:
+
+
+
+GET / HTTP/1.1
+Accept-Encoding: identity
+Host: www.meetup.com
+Connection: close
+User-Agent: Python-urllib/2.7
+
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://www.meetup.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Mon, 15 Oct 2018 02:10:07 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-bur17520-BUR
+X-Cache: HIT
+X-Cache-Hits: 0
+
+
+
+SET AS wswp:
+
+GET / HTTP/1.1
+Accept-Encoding: identity
+Host: www.meetup.com
+Connection: close
+User-Agent: wswp
+
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://www.meetup.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Mon, 15 Oct 2018 02:21:57 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-bur17530-BUR
+X-Cache: HIT
+X-Cache-Hits: 0
+
+
