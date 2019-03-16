@@ -4,6 +4,8 @@
 from socketserver import TCPServer, StreamRequestHandler
 
 
+# compared to socketserver.BaseRequestHandler,
+# StreamRequestHandler add wfile, rfile
 class Handler(StreamRequestHandler):
     def handle(self):
         addr = self.request.getpeername()  # eg: addr = ('127.0.0.1', 57838)

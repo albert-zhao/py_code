@@ -2,7 +2,9 @@
 from socketserver import TCPServer, ForkingMixIn, StreamRequestHandler
 
 
-# ForkingMixIn overrided process_request method to fork a child process
+# ForkingMixIn overrided process_request method to fork a child process,
+# the order (ForkingMixIn, TCPServer) can not changed because of
+# (Method Resolution Order， MRO） 
 class Server(ForkingMixIn, TCPServer):
     pass
 
